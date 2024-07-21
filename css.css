@@ -1,0 +1,44 @@
+div{
+	font-style: italic;
+}
+.A {
+  border: 10px ridge #0000ff;
+  background-color: #ffc0cb;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.A img {
+  width: 100%;
+}
+
+.A p {
+  font: small-caps bold 1.2rem sans-serif;
+  text-align: center;
+}
+div{
+	border-radius: 20px;
+}
+figure {
+  margin: 0;
+}
+div{
+	background-color: #ffffff;
+}
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+.other{
+	background-color: #0000ff;
+	color: #ffff00;
+}
+.sb{
+	background-color: #ff0000;
+	color: #00ffff;
+}
+.ui{
+	background-color: #ffd700;
+	color: #000;
+}
